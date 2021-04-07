@@ -8,3 +8,7 @@ Machine-based, rapid creation of many tokens would not necessarily need these ex
 1) Initial Finite Supply (upon creation one specifies how much is minted).
 2) In the absence of a token registry: Optional Decimal, Symbol & Name.
 3) Optional approveAndCall() functionality to notify a contract if an approval() has occurred.
+
+
+# Huobi Eco Chain (Heco) smart contract address:
+https://hecoinfo.com/address/0xfad7161c74c809c213d88dac021600d74f6c961c#code
